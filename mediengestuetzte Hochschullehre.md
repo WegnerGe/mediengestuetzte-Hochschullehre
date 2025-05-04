@@ -64,9 +64,9 @@ Image: ©Wegner / erstellt mit DALL·E 3
 
 ## Freude wecken bzw. fördern
 
-|![](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40573-019-00095-6/MediaObjects/40573_2019_95_Fig1_HTML.png)| ![](https://openmoji.org/data/black/svg/1F642.svg)|
+|![](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40573-019-00095-6/MediaObjects/40573_2019_95_Fig1_HTML.png)| 
 
-Image (links): ©Vogelsang et al. (übertragen nach Fishbein und Ajzen 2010) / Image (rechts): OpenMojis/Jäger
+Image: ©Vogelsang et al. (übertragen nach Fishbein und Ajzen 2010)
 
 __Theory of Planned Behavior __
 
@@ -74,6 +74,11 @@ __Theory of Planned Behavior __
 2. Erwarten mein soziales Umfeld bzw. Personen, die mir wichtig sind, dass ich mich zum Thema mediengestützte Lehre weiterbilde?
 3. Bin ich fähig, an der Weiterbildung teilzunhemen und dabei mein Gesicht zu wahren?
 
+Hinzu kommen jedoch auch affektive Faktoren wie das Erleben von Freude beim Lernen, bspw. in einer Weiterbildung.
+
+![](https://openmoji.org/data/black/svg/1F642.svg)|
+Image: OpenMojis/Jäger
+ 
 __Didaktischer Doppeldecker: Möglichkeiten und Grenzen aufzeigen__
 
 Möglichkeiten:
