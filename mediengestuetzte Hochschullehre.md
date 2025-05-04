@@ -1,9 +1,7 @@
 # Ansätze und Herausforderungen der Weiterbildung für mediengestützte Hochschullehre
 ![](https://images.pexels.com/photos/236118/pexels-photo-236118.jpeg?auto=compress&cs=tinysrgb&w=800)
 
-Image: ©Pixabay / Text-to-Speech: ©ElevenLabs
-
-?[](d1caaaeb9a2bb405976bf6b5bdd96b00fb11c391.mp3)
+Image: ©Pixabay
 
 __Öffnet sich die Schere weiter?__
 
@@ -21,7 +19,7 @@ Erfahrungen, die teils bereits in der Kindheit gemacht wurden, können sich auf 
 
 -> Gemeinsame Sprache ("Das ist wie bei Sims") vs. Gefühl, abgehangen zu sein ("Wo bin ich?")
 
-![](6cae26bc09d0c2ab03e98ee5dcfa64073bd166dd.png)
+![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/tricat/@@images/eb018914-e11c-4fb8-a2f0-22735d8fac9e.png)
 
 Image: ©Wegner 
 
@@ -32,7 +30,7 @@ __Frage der Behaglichkeit __
 
 ## Ebenen & Ansätze
 
-![](38c837e69e27b624094ad7f1aa3dd85fbdfaa5a0.png)
+![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/ebenen-1/@@images/bc62e7a7-7e62-4e1f-9c6c-89bd0497edb1.png)
 
 Image: ©Wegner 
 
@@ -42,13 +40,13 @@ __Mögliche Ansätze__
 * partnerschaftliche Zusammenarbeit, sowohl im Sinne des SAP-Ansatzes (vgl. Healey 2010) als auch in Bezug auf die Lehrenden (vgl. Brenner et al. 2024)
 * interdisziplinäre Teams in der Vorbereitung und (sofern möglich) Durchführung von Weiterbildungen
 
-![](c4651fe3843a0aa18c627c7ede3a3c4b14257363.png)
+![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/kompetenzlevel-1/@@images/8453e86f-9bf4-4ff1-a40b-2ba59f15b44a.png)
 
 Image: ©D2C2
 
 ## Das Wesentliche im Blick
 
-![](540dd52f874f5b81d256b512425fd3ab67229aa2.png)
+![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/didaktik_vor_technik/@@images/2237e707-c256-413e-ae8e-ed82ea48fa37.png)
 
 Image: ©Wegner / erstellt mit DALL·E 3
 
@@ -58,17 +56,17 @@ Es besteht das Risiko, den Stellenwert der Technik zu überschätzen.
 
 "Immersives Lernen bezeichnet eine Lernmethode, bei der die Lernenden in eine virtuelle Welt eintauchen" (Wölfel 2023)
 
-| Immersion durch Lesen | Immersion durch VR|
-| -------- | :------: |
-| ![](8f2e4ca2d8f98027c26548d594309457ee12d49e.png)|![](bab5de96715e898f17479eb7fc45b598e43ad8fc.png)|
+Immersion jedoch durch VR sowie durch reines Lesen möglich, wenngleich unterschiedliche Immersionsgrade erreicht werden.
+
+![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/immersives_lernen/@@images/100067b5-bbda-494a-a83b-d237fee7e514.png)
 
 Image: ©Wegner / erstellt mit DALL·E 3
 
 ## Freude wecken bzw. fördern
 
-|![](3d70b0fa72632272cb3923a9ec0786513c9cd461.png)|![](b22e78baabb20b0a4f3e5d9ad61674a21702af2a.png)|
+|![](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40573-019-00095-6/MediaObjects/40573_2019_95_Fig1_HTML.png)| ![](https://openmoji.org/data/black/svg/1F642.svg)|
 
-Image: ©Vogelsang et al. (übertragen nach Fishbein und Ajzen 2010)
+Image (links): ©Vogelsang et al. (übertragen nach Fishbein und Ajzen 2010) / Image (rechts): OpenMojis/Jäger
 
 __Theory of Planned Behavior __
 
@@ -94,7 +92,7 @@ Grenzen:
 
 Habe ich Ihr Interesse an Liascript geweckt? Dann lassen Sie uns gerne gemeinsam an OER-Projekten arbeiten!
 
-![](769ddc892399354f9a101ce986af93c9b0ea6459.png)
+![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/liacript_screenshot/@@images/8db973d5-fda4-41d0-91fa-17a942aaefa3.png)
 
 ## Quellen
 
