@@ -76,7 +76,8 @@ __Theory of Planned Behavior __
 
 Hinzu kommen jedoch auch affektive Faktoren wie das Erleben von Freude beim Lernen, bspw. in einer Weiterbildung.
 
-![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/smiley/@@images/a5e41702-959e-4071-a1e5-d57db7726426.png)|
+![](https://tu-dresden.de/zill/ressourcen/bilder/copy_of_d2c2/smiley/@@images/a5e41702-959e-4071-a1e5-d57db7726426.png)
+
 Image: OpenMojis/Jäger
  
 __Didaktischer Doppeldecker: Möglichkeiten und Grenzen aufzeigen__
